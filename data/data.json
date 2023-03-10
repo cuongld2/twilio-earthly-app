@@ -1,0 +1,142 @@
+{
+    "places_categories": [
+        {
+            "id": "hanoi",
+            "title": "Places in Hanoi",
+            "description": "Several places in hanoi were heavily impacted by pollution and needs a help from you as a volunteer.",
+            "image": "https://images.unsplash.com/photo-1616486410185-81af2d32a2af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80"
+        },
+        {
+            "id": "hochiminh",
+            "title": "Places in Ho Chi Minh city",
+            "description": "Several places in Ho Chi Minh were heavily impacted by pollution and needs help.",
+            "image": "https://images.unsplash.com/photo-1668202372712-e8cee49f0f36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1158&q=80"
+        },
+        {
+            "id": "danang",
+            "title": "Places in Da Nang",
+            "description": "Several places in danang were heavily impacted by pollution and needs a help from you as a volunteer.",
+            "image": "https://images.unsplash.com/photo-1603852452378-a4e8d84324a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+        }
+    ],
+    "allPlaces": [
+        {
+            "id": "hoan-kiem-lake",
+            "title": "Hoan Kiem Lake",
+            "city": "hanoi",
+            "description": "Hoan Kiem Lake now is polutted with trash after the holiday.",
+            "cleaningDate": "2023-03-11",
+            "image": "https://images.unsplash.com/photo-1616486410185-81af2d32a2af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "emails_registered": [
+                "ledinhcuong99@gmail.com",
+                "donald.le@iamondemand.com",
+                "vinlabsignupcase@gmail.com",
+                "vinlabsi4gnupcase@gmail.com"
+            ],
+            "phoneNumbers_registered": []
+        },
+        {
+            "id": "cafe-duong-tau",
+            "title": "Cafe duong tau",
+            "city": "hanoi",
+            "description": "Cafe duong tau is now having trash from its customers too.",
+            "cleaningDate": "2023-03-11",
+            "image": "https://images.unsplash.com/photo-1555921015-5532091f6026?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "emails_registered": [
+                "ledinhcuong99@gmail.com",
+                "donald.le@iamondemand.com",
+                "v.cuongld7@vinbigdata.org"
+            ],
+            "phoneNumbers_registered": []
+        },
+        {
+            "id": "long-bien-bridge",
+            "title": "Long Bien bridge",
+            "city": "hanoi",
+            "description": "Long Bien bridge is now full of trash at the nearby streetfood.",
+            "cleaningDate": "2023-03-11",
+            "image": "https://images.unsplash.com/photo-1458013356865-f7ea608ed9a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "emails_registered": [],
+            "phoneNumbers_registered": []
+        },
+        {
+            "id": "ben-thanh-market",
+            "title": "Ben Thanh market",
+            "city": "hochiminh",
+            "description": "Ben Thanh market is now having trash at every corner from customers eating street food.",
+            "cleaningDate": "2023-03-11",
+            "image": "https://images.unsplash.com/photo-1635684228990-890fda1deb7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+            "emails_registered": [
+                "laura@gmail.com"
+            ],
+            "phoneNumbers_registered": []
+        },
+        {
+            "id": "hamrong-port",
+            "title": "Ham Rong port",
+            "city": "hochiminh",
+            "description": "Ham Rong port has trash from customers going on the boat to Vung Tau.",
+            "cleaningDate": "2023-03-11",
+            "image": "https://images.unsplash.com/photo-1649577863234-c49f9a71cf18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "emails_registered": [],
+            "phoneNumbers_registered": []
+        },
+        {
+            "id": "quan-4",
+            "title": "Quan 4",
+            "city": "hochiminh",
+            "description": "Quan 4 has trash from all the stores throwing directly to the streets.",
+            "cleaningDate": "2023-03-11",
+            "image": "https://images.unsplash.com/photo-1616496595129-baa1787daa3c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "emails_registered": [
+                "donald.le@iamondemand.com",
+                "ledinhlong201911@gmail.com",
+                "v.cuongld7@vinbigdata.org"
+            ],
+            "phoneNumbers_registered": [
+                "+84838069260"
+            ]
+        },
+        {
+            "id": "cau-rong",
+            "title": "Dragon bridge",
+            "city": "danang",
+            "description": "Dragon bridge has trash at both sides of its.",
+            "cleaningDate": "2023-03-11",
+            "image": "https://images.unsplash.com/photo-1602646993754-5d2fec280514?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+            "emails_registered": [
+                "monica@gmail.com",
+                "lahassf@gmail.com"
+            ],
+            "phoneNumbers_registered": [
+                "0844245632"
+            ]
+        },
+        {
+            "id": "cau-day-vang",
+            "title": "Day Vang bridge",
+            "city": "danang",
+            "description": "The bridge has trash at the ending caused by customers eating at street food stores.",
+            "cleaningDate": "2023-03-11",
+            "image": "https://images.unsplash.com/photo-1558002890-cd523ac8f02b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8RGFuYW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "emails_registered": [
+                "monica@gmail.com",
+                "david@yahoo.com",
+                "claire@ss.com"
+            ],
+            "phoneNumbers_registered": []
+        },
+        {
+            "id": "palm-bridge",
+            "title": "Palm bridge",
+            "city": "danang",
+            "description": "Palm bridge has trash caused by having a great number of customers eating food at the nearby restaurants.",
+            "cleaningDate": "2023-03-11",
+            "image": "https://images.unsplash.com/photo-1588411393236-d2524cca1196?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8RGFuYW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "emails_registered": [
+                "monica@gmail.com"
+            ],
+            "phoneNumbers_registered": []
+        }
+    ]
+}
