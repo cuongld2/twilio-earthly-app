@@ -6,7 +6,7 @@ export function sendEmail(recipientEmail, htmlContent, mailSubject){
     sgMail.setApiKey(process.env.SENDGRID_API_KEY)
     const msg = {
       to: recipientEmail, // Change to your recipient
-      from: 'ledinhcuong99@gmail.com', // Change to your verified sender
+      from: process.env.SENDGRID_EMAIL, // Change to your verified sender
       subject: mailSubject,
       html: htmlContent,
     }
