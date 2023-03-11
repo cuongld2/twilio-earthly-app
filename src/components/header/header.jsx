@@ -27,7 +27,7 @@ export const Header = () => {
             </ul>
           </nav>
         </div>
-        <p className="title"> Calling for volunteers for preserving clean sightseeing places in Vietnam</p>
+        <p className="title">Lets clean Vietnam together</p>
       </div>
     </header>
   );

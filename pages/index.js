@@ -5,7 +5,7 @@ export default function Home({ data }) {
   return (
     <div>
       <Head>
-        <title>Calling for polluted sightseeing cleaning volunteers</title>
+        <title>Lets clean Vietnam together</title>
         <meta name="description" content="Created by Donald Le" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
