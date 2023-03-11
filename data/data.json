@@ -25,11 +25,12 @@
             "title": "Hoan Kiem Lake",
             "city": "hanoi",
             "description": "Hoan Kiem Lake now is polutted with trash after the holiday.",
-            "cleaningDate": "2024-03-11",
+            "cleaningDate": "2023-03-12",
             "image": "https://images.unsplash.com/photo-1616486410185-81af2d32a2af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
             "emails_registered": [
             ],
-            "phoneNumbers_registered": []
+            "phoneNumbers_registered": [
+            ]
         },
         {
             "id": "cafe-duong-tau",
@@ -38,8 +39,7 @@
             "description": "Cafe duong tau is now having trash from its customers too.",
             "cleaningDate": "2024-03-11",
             "image": "https://images.unsplash.com/photo-1555921015-5532091f6026?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-            ],
+            "emails_registered": [],
             "phoneNumbers_registered": []
         },
         {
@@ -59,8 +59,7 @@
             "description": "Ben Thanh market is now having trash at every corner from customers eating street food.",
             "cleaningDate": "2024-03-11",
             "image": "https://images.unsplash.com/photo-1635684228990-890fda1deb7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
-            "emails_registered": [
-            ],
+            "emails_registered": [],
             "phoneNumbers_registered": []
         },
         {
@@ -80,8 +79,7 @@
             "description": "Quan 4 has trash from all the stores throwing directly to the streets.",
             "cleaningDate": "2024-03-11",
             "image": "https://images.unsplash.com/photo-1616496595129-baa1787daa3c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-            ],
+            "emails_registered": [],
             "phoneNumbers_registered": [
                 "+84838069260"
             ]
@@ -93,8 +91,7 @@
             "description": "Dragon bridge has trash at both sides of its.",
             "cleaningDate": "2024-03-11",
             "image": "https://images.unsplash.com/photo-1602646993754-5d2fec280514?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-            "emails_registered": [
-            ],
+            "emails_registered": [],
             "phoneNumbers_registered": [
                 "0844245632"
             ]
@@ -106,8 +103,7 @@
             "description": "The bridge has trash at the ending caused by customers eating at street food stores.",
             "cleaningDate": "2024-03-11",
             "image": "https://images.unsplash.com/photo-1558002890-cd523ac8f02b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8RGFuYW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "emails_registered": [
-            ],
+            "emails_registered": [],
             "phoneNumbers_registered": []
         },
         {
@@ -117,8 +113,7 @@
             "description": "Palm bridge has trash caused by having a great number of customers eating food at the nearby restaurants.",
             "cleaningDate": "2024-03-11",
             "image": "https://images.unsplash.com/photo-1588411393236-d2524cca1196?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8RGFuYW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "emails_registered": [
-            ],
+            "emails_registered": [],
             "phoneNumbers_registered": []
         }
     ]

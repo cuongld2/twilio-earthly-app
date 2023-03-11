@@ -21,7 +21,7 @@ const SinglePlace = ({ data }) => {
     }
 
     try {
-      const response = await fetch('/api/email-registration', {
+      const response = await fetch('/api/registration', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
